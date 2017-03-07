@@ -1,0 +1,24 @@
+Script started on 2017年03月07日 (週二) 08時28分04秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/hw1 $[00m whoami;pwd
+pd2vm
+/home/pd2vm/hw1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/hw1 $[00m git config -l
+user.email=cutechopper1224@gmail.com
+user.name=cutechopper1224
+push.default=matching
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/cutechopper1224/lab1.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/hw1 $[00m git clone http:[Ks://gi thub.com/cutechopper1224@g[K[K/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 3, done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0[K
+Unpacking objects:  33% (1/3)   Unpacking objects:  66% (2/3)   Unpacking objects: 100% (3/3)   Unpacking objects: 100% (3/3), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/hw1 $[00m 
+Script done on 2017年03月07日 (週二) 08時28分53秒
